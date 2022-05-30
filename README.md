@@ -1,5 +1,6 @@
 # IMPORTANT
 Create a new API key from http://www.omdbapi.com/apikey.aspx and use in this file 
+
 src/common/MovieApiKey.js 
 export const APIKey = "**YOUR NEW API KEY**"
 
