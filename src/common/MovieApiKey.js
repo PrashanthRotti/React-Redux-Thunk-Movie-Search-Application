@@ -1,1 +1,1 @@
-export const APIKey = "70020214"
+export const APIKey = "" // Create new and use your new API key
