@@ -1,5 +1,5 @@
 # IMPORTANT
-Create a new API key from http://www.omdbapi.com/apikey.aspx and use in this file 
+Create a new API key from http://www.omdbapi.com/apikey.aspx and use in this file before exploring
 
 src/common/MovieApiKey.js
 
