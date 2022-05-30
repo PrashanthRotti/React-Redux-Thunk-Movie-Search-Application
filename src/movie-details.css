@@ -1,0 +1,31 @@
+.description-box {
+    display: flex;
+    margin-top: 80px;
+}
+
+.back {
+    text-align: center;
+    color: white;
+    cursor: pointer;
+}
+
+.back::before {
+    content: "< ";
+}
+
+.description-box--image {
+    margin: 0 40px 0 40px;
+}
+
+.description-box--text {
+    align-items: center;
+}
+
+.description-ratings {
+    display: flex;
+    column-gap: 100px;
+}
+
+.description-ratings-block {
+    margin-left: 40px;
+}
